@@ -8,3 +8,10 @@ The data for the dashboard comes from an excel file showing the responses of sur
 The next image depict columns with useful data for the final dashboard. These show metrics such as the avergae salary of a participant, the industry they currently work in, and their favourite programming language etc.
 
 ![image](https://github.com/Sha95544/Data-Career-Job-Market-Trend-Visualization/assets/62758405/049f27e1-9f38-4558-93c9-7fda831df220)
+
+## The data cleaning process
+The data was transformed within the PowerQuery editor within PowerBI for cleaning purposes. 
+
+The first step involved removing the colums labelled E to I since they are completely blank and serve no purpose for the visualization.
+
+![image](https://github.com/Sha95544/Data-Career-Job-Market-Trend-Visualization/assets/62758405/cb85fa9a-e519-4938-8cb1-220e54e46c81)
