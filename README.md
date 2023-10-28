@@ -15,3 +15,8 @@ The data was transformed within the PowerQuery editor within PowerBI for cleanin
 The first step involved removing the colums labelled E to I since they are completely blank and serve no purpose for the visualization.
 
 ![image](https://github.com/Sha95544/Data-Career-Job-Market-Trend-Visualization/assets/62758405/cb85fa9a-e519-4938-8cb1-220e54e46c81)
+
+In the image blow, the current yearly salary as shown as a range and is in text format. To claulate the the average salary of a each survey taker. To calculate the avergae salary these colums were seperated out into two different columns based on delimiters such as '-' and the average salary was calculated using DAX expressions.
+
+![Uploading image.png…]()
+
