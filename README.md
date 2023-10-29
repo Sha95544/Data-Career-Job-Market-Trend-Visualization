@@ -34,9 +34,9 @@ The same process was carried out for the columns showing the favourite programmi
 ![image](https://github.com/Sha95544/Data-Career-Job-Market-Trend-Visualization/assets/62758405/5ff1a49c-23c0-476b-8547-7047455046c1
 
 ## Key insights 
+### Regions from where the survey was filled
 
-![image](https://github.com/Sha95544/Data-Career-Job-Market-Trend-Visualization/assets/62758405/c9aefbd9-4226-4b59-84e4-1e2f3a0a0988)
+![image](https://github.com/Sha95544/Data-Career-Job-Market-Trend-Visualization/assets/62758405/ad29dc3a-6b08-4943-bd7a-b9043ac788d6)
 
-### A
-
+The final dashboard shows that a major chunk of the survey was filled primarliy by the residents of the USA followed by India, the UK and Canada in comparitively smaller proportions. Participation from the rest of the globe wasn't as significant as compared to these four countries.
 
