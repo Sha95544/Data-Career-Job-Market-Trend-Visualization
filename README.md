@@ -24,4 +24,9 @@ In the orignal dataset the column shown below lists the job titles of the people
 
 ![image](https://github.com/Sha95544/Data-Career-Job-Market-Trend-Visualization/assets/62758405/f69774a8-8741-46f1-8090-eb8c9c98ac42)
 
-To streamline the analysis process, these "Others-job title" field were replaced by just "Others".
+To streamline the analysis process, these "Others-job title" field were replaced by just "Others" by splitting the column based on certain delimiters.
+
+The same process was carried out for the columns showing the favourite programming languages of survey takers and the industry they are currently associated with:
+
+![image](https://github.com/Sha95544/Data-Career-Job-Market-Trend-Visualization/assets/62758405/5ff1a49c-23c0-476b-8547-7047455046c1)
+
