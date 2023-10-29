@@ -39,7 +39,7 @@ The same process was carried out for the columns showing the favourite programmi
 
 The dashboard reveals that a total of 630 people completely filled the survey. A larger pool of respondants could have provided much better insights on the overall trend within the data job market as well as ensured a much better representation from other countries throughout the world.
 
-
+The average age of "29.87" suggests that, on average, data professionals in this job market are in their late twenties or early thirties suggesting a significantly large portion of early career professionals within the inudstry. Furthermore, it goes on to show that the landscape wihin this domain is rather competitive as younger professionals may bring fresh perspectives and innovative ideas to the industry.
 
 ### Regions from where the survey was filled
 
