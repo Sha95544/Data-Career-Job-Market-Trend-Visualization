@@ -20,6 +20,8 @@ In the image blow, the current yearly salary as shown as a range and is in text 
 
 ![image](https://github.com/Sha95544/Data-Career-Job-Market-Trend-Visualization/assets/62758405/4c676fb1-9db3-499e-b0f8-d23eb3fc948c)
 
-In the orignal dataset the column shown below 
+In the orignal dataset the column shown below lists the job titles of the people who filled the survey. The titles include "data analyst", "data scientist" etc among others. It is also worth noting that many of these titles are labelled as "Others" followed by a specific role telling that these careers aren't related to "data".
 
 ![image](https://github.com/Sha95544/Data-Career-Job-Market-Trend-Visualization/assets/62758405/f69774a8-8741-46f1-8090-eb8c9c98ac42)
+
+To streamline the analysis process, these "Others-job title" field were replaced by just "Others".
