@@ -31,5 +31,12 @@ To streamline the analysis process, these "Others-job title" field were replaced
 
 The same process was carried out for the columns showing the favourite programming languages of survey takers and the industry they are currently associated with:
 
-![image](https://github.com/Sha95544/Data-Career-Job-Market-Trend-Visualization/assets/62758405/5ff1a49c-23c0-476b-8547-7047455046c1)
+![image](https://github.com/Sha95544/Data-Career-Job-Market-Trend-Visualization/assets/62758405/5ff1a49c-23c0-476b-8547-7047455046c1
+
+## Key insights 
+
+![image](https://github.com/Sha95544/Data-Career-Job-Market-Trend-Visualization/assets/62758405/c9aefbd9-4226-4b59-84e4-1e2f3a0a0988)
+
+### A
+
 
