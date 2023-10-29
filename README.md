@@ -34,6 +34,13 @@ The same process was carried out for the columns showing the favourite programmi
 ![image](https://github.com/Sha95544/Data-Career-Job-Market-Trend-Visualization/assets/62758405/5ff1a49c-23c0-476b-8547-7047455046c1
 
 ## Key insights 
+
+![image](https://github.com/Sha95544/Data-Career-Job-Market-Trend-Visualization/assets/62758405/8bfc59eb-9342-453f-87ab-47cd4fc5709c)
+
+The dashboard reveals that a total of 630 people completely filled the survey. A larger pool of respondants could have provided much better insights on the overall trend within the data job market as well as ensured a much better representation from other countries throughout the world.
+
+
+
 ### Regions from where the survey was filled
 
 ![image](https://github.com/Sha95544/Data-Career-Job-Market-Trend-Visualization/assets/62758405/ad29dc3a-6b08-4943-bd7a-b9043ac788d6)
