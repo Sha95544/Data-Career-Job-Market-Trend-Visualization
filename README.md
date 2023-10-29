@@ -29,9 +29,13 @@ In the orignal dataset the column shown below lists the job titles of the people
 
 To streamline the analysis process, these "Others-job title" field were replaced by just "Others" by splitting the column based on certain delimiters.
 
-The same process was carried out for the columns showing the favourite programming languages of survey takers and the industry they are currently associated with:
+The same process was carried out for the columns showing the favourite programming languages of survey takers and the industry they are currently associated with. The image below shows those columns in the original dataset.
 
-![image](https://github.com/Sha95544/Data-Career-Job-Market-Trend-Visualization/assets/62758405/8a2818fd-4cc1-4689-908e-9d26ec6d2cd0) ![image](https://github.com/Sha95544/Data-Career-Job-Market-Trend-Visualization/assets/62758405/093ba932-2f7c-4328-943e-6881a713da89)
+![image](https://github.com/Sha95544/Data-Career-Job-Market-Trend-Visualization/assets/62758405/8a2818fd-4cc1-4689-908e-9d26ec6d2cd0) 
+
+The next snippet shows how those columns appear in the final dataset loaded into PowerBI after being cleaned within the PowerQuery editor.
+
+![image](https://github.com/Sha95544/Data-Career-Job-Market-Trend-Visualization/assets/62758405/093ba932-2f7c-4328-943e-6881a713da89)
 
 
 
