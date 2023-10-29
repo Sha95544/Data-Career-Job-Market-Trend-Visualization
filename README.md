@@ -41,6 +41,8 @@ The next snippet shows how those columns appear in the final dataset loaded into
 
 ## Key insights 
 
+### Total number of survey takers and their age demographics
+
 ![image](https://github.com/Sha95544/Data-Career-Job-Market-Trend-Visualization/assets/62758405/8bfc59eb-9342-453f-87ab-47cd4fc5709c)
 
 The dashboard reveals that a total of 630 people completely filled the survey. A larger pool of respondants could have provided much better insights on the overall trend within the data job market as well as ensured a much better representation from other countries throughout the world.
@@ -52,4 +54,8 @@ The average age of "29.87" suggests that, on average, data professionals in this
 ![image](https://github.com/Sha95544/Data-Career-Job-Market-Trend-Visualization/assets/62758405/ad29dc3a-6b08-4943-bd7a-b9043ac788d6)
 
 The final dashboard shows that a major chunk of the survey was filled primarliy by the residents of the USA followed by India, the UK and Canada in comparitively smaller proportions. Participation from the rest of the globe wasn't as significant as compared to these four countries.
+
+### Favourite programming language among partcipants:
+![image](https://github.com/Sha95544/Data-Career-Job-Market-Trend-Visualization/assets/62758405/1d853822-320d-46a8-a58f-41774ba4a254)
+
 
