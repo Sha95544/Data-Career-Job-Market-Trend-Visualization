@@ -55,9 +55,21 @@ The average age of "29.87" suggests that, on average, data professionals in this
 
 The final dashboard shows that a major chunk of the survey was filled primarliy by the residents of the USA followed by India, the UK and Canada in comparitively smaller proportions. Participation from the rest of the globe wasn't as significant as compared to these four countries.
 
-### Favourite programming language among partcipants:
+### Favourite programming language among partcipants
 ![image](https://github.com/Sha95544/Data-Career-Job-Market-Trend-Visualization/assets/62758405/1d853822-320d-46a8-a58f-41774ba4a254)
 
 Python appears to be the most favoured programming language among all the participants with no other programming language posing a competetion to it. R follows in the second place. Python is a more general purpose programming language allowing users to seamlessly switch from web development to data analysis to machine learning while R was was initially designed specifically for statistical computing and graphics.Pyhton is also a fairly easy programming language to grasp for begineers and has a larger community as well as a rich collection of libraries for a variety of tasks owing to its greater popularity.The bars for languages titled as "Others" hold the third spot. This group ecompasses querying tools such as SQL. Other programming langugaes such as C++ and Java are far less popular since they cater to software development applications rather than data-related applications.
 
 The result also shows that a major chunk of these responses are from data analysts and other data related professiosns such as data engineers and dara scientists make a smaller chunk in the overall distribution.
+
+## Average Salary by Job title
+![image](https://github.com/Sha95544/Data-Career-Job-Market-Trend-Visualization/assets/62758405/25f13e1b-ea4d-4a46-936a-758e44cdd78d)
+
+The "data scientist" job title appears to be the highest paid among all of the data-related job roles followed closely by "data engineer" in the second place. 
+
+This could suggest that data scientists are have the highest global demand among all of the data related job roles (at the time of the survey) . 
+
+Data scientists typically require a strong educational background in fields such as statistics, computer science and machine learning. A higher level of education may lead to higher salaries compared to roles that may not demand the same level of academic qualifications.
+
+The complexity and difficulty of the work can influence salary levels. Data scientists may be tasked with solving unique and complex problems, while data engineers may focus more on infrastructure and data pipeline development.
+
