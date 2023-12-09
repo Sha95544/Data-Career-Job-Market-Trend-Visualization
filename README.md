@@ -73,3 +73,14 @@ Data scientists typically require a strong educational background in fields such
 
 The complexity and difficulty of the work can influence salary levels. Data scientists may be tasked with solving unique and complex problems, while data engineers may focus more on infrastructure and data pipeline development.
 
+## Happiness with work-life balance
+
+![image](https://github.com/Sha95544/Data-Career-Job-Market-Trend-Visualization/assets/62758405/5c223738-a3bf-466b-a86c-830642532447)
+
+A work-life balance rating of 5.74 out of 10 suggests that, on average, professionals in data-related careers are moderately satisfied with their work-life balance. This numerical value falls below the midpoint of 10, indicating that there might be room for improvement, and professionals, on average, are not overly satisfied with the balance between their work and personal lives.
+
+One of the reasons for this figure could be due to intense workloads. The tech and data industries are known for having fast-paced and dynamic work environments. Professionals may feel pressure to meet high expectations and deliver results quickly, which can impact work-life balance.
+
+Many individuals in data-related professions are passionate about their work and may willingly dedicate extra time to projects. While dedication is commendable, it can also lead to longer working hours and potential strain on work-life balance.
+
+The rise of remote work, especially in the tech industry, may have introduced challenges in separating work and personal life. Professionals might find it difficult to establish clear boundaries when working from home, impacting their overall satisfaction with work-life balance.
