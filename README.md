@@ -92,3 +92,14 @@ The rise of remote work, especially in the tech industry, may have introduced ch
 A happiness with salary index of 4.27 out of 10 suggests that, on average, professionals in data-related careers are reporting a relatively low level of satisfaction or happiness with their current salary. This numerical value indicates that there is dissatisfaction with the compensation provided for their work.
 
 Professionals may feel that their current compensation does not reflect the complexity of their roles or the level of responsibilities they undertake. If they believe they are being undercompensated for the value they provide, it can impact satisfaction.
+
+
+## Perceived difficulty of breaking into data
+
+![image](https://github.com/Sha95544/Data-Career-Job-Market-Trend-Visualization/assets/62758405/d76ec71a-10b0-4119-bb5d-ffd409d0f9aa)
+
+Roughly 25% of the participants say that they have found it hard to break into / get their feet under the data career industry while on the other hand around 21% also report that the have found the overall process to be relativley easy. 
+
+The results thus shed light on how one person's journey into the data realm can be entirely different from another one. One individual might have majored in computer science, mathematics or other related degrees gving them an edge within the job hunt over those who have come into this career form totally unrelated roles and have had to learm all the skills from scratch. 
+
+Transitioning within a company to a data-related role is also far more easier particularly when a person already has the background domain knowledge of the current industry (such as becoming a data analyst within healthcare from a primrary healthcare related job) as compared to searching for the same kind of role in a different industry as an entry-level data proffesional with no prior industry expereince to back one's credibility.
