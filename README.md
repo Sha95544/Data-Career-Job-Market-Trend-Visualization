@@ -84,3 +84,11 @@ One of the reasons for this figure could be due to intense workloads. The tech a
 Many individuals in data-related professions are passionate about their work and may willingly dedicate extra time to projects. While dedication is commendable, it can also lead to longer working hours and potential strain on work-life balance.
 
 The rise of remote work, especially in the tech industry, may have introduced challenges in separating work and personal life. Professionals might find it difficult to establish clear boundaries when working from home, impacting their overall satisfaction with work-life balance.
+
+## Happiness with salary
+
+![image](https://github.com/Sha95544/Data-Career-Job-Market-Trend-Visualization/assets/62758405/1115f1b1-463c-429f-a20f-73811f8aa193)
+
+A happiness with salary index of 4.27 out of 10 suggests that, on average, professionals in data-related careers are reporting a relatively low level of satisfaction or happiness with their current salary. This numerical value indicates that there is dissatisfaction with the compensation provided for their work.
+
+Professionals may feel that their current compensation does not reflect the complexity of their roles or the level of responsibilities they undertake. If they believe they are being undercompensated for the value they provide, it can impact satisfaction.
