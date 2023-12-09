@@ -4,6 +4,7 @@ This project visualizes a dataset from survey results of 600+ participants in Po
 ![image](https://github.com/Sha95544/Data-Career-Job-Market-Trend-Visualization/assets/62758405/2b9ad1f6-406b-466c-9ee6-a2549ad100b9)
 
 The live dashboard can be viewed at the following link:
+
 https://app.powerbi.com/groups/me/reports/fd13ff95-4e98-4d3c-bc82-cd4e9076cab4/ReportSection?experience=power-bi
 
 ## Data overview
