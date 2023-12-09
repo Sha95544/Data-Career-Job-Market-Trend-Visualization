@@ -4,7 +4,7 @@ This project visualizes a dataset from survey results of 600+ participants in Po
 ![image](https://github.com/Sha95544/Data-Career-Job-Market-Trend-Visualization/assets/62758405/2b9ad1f6-406b-466c-9ee6-a2549ad100b9)
 
 ## Data overview
-The data for the dashboard comes from an excel file showing the responses of survey participants in a tabular format. Some columns such as "Unique ID", "email etc are shown below.It can be seen that some of these columns are blank and thus serve no purpose in creating the final dashbpard.
+The data for the dashboard comes from an excel file showing the responses of survey participants in a tabular format. Some columns such as "Unique ID", "email etc are shown below.It can be seen that some of these columns are blank and thus serve no purpose in creating the final dashboard.
 
 ![image](https://github.com/Sha95544/Data-Career-Job-Market-Trend-Visualization/assets/62758405/9c09540d-98c6-427d-8f86-f2a8f0bb2e4b)
 
@@ -58,4 +58,6 @@ The final dashboard shows that a major chunk of the survey was filled primarliy 
 ### Favourite programming language among partcipants:
 ![image](https://github.com/Sha95544/Data-Career-Job-Market-Trend-Visualization/assets/62758405/1d853822-320d-46a8-a58f-41774ba4a254)
 
+Python appears to be the most favoured programming language among all the participants with no other programming language posing a competetion to it. R follows in the second place. Python is a more general purpose programming language allowing users to seamlessly switch from web development to data analysis to machine learning while R was was initially designed specifically for statistical computing and graphics.Pyhton is also a fairly easy programming language to grasp for begineers and has a larger community as well as a rich collection of libraries for a variety of tasks owing to its greater popularity.The bars for languages titled as "Others" hold the third spot. This group ecompasses querying tools such as SQL. Other programming langugaes such as C++ and Java are far less popular since they cater to software development applications rather than data-related applications.
 
+The result also shows that a major chunk of these responses are from data analysts and other data related professiosns such as data engineers and dara scientists make a smaller chunk in the overall distribution.
