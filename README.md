@@ -3,6 +3,9 @@ This project visualizes a dataset from survey results of 600+ participants in Po
 
 ![image](https://github.com/Sha95544/Data-Career-Job-Market-Trend-Visualization/assets/62758405/2b9ad1f6-406b-466c-9ee6-a2549ad100b9)
 
+The live dashboard can be viewed at the following link:
+https://app.powerbi.com/groups/me/reports/fd13ff95-4e98-4d3c-bc82-cd4e9076cab4/ReportSection?experience=power-bi
+
 ## Data overview
 The data for the dashboard comes from an excel file showing the responses of survey participants in a tabular format. Some columns such as "Unique ID", "email etc are shown below.It can be seen that some of these columns are blank and thus serve no purpose in creating the final dashboard.
 
